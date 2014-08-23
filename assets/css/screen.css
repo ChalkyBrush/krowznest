@@ -358,8 +358,8 @@ table.plain {
 /* Centres vertically yo. (IE8+) */
 .vertical {
 /*    background-color: white;*/
-    background-image:url(../images/big_bg.jpg) no-repeat center center fixed;
-    background-size:cover;
+    background-image:url('/assets/images/big_bg.jpg') no-repeat center center fixed;
+ /*   background-size:cover;*/
     -webkit-box-shadow: 0 2px 4px 0 rgba(0,0,0,.3);
     box-shadow: 0 2px 4px 0 rgba(0,0,0,.3);
     height: 58px;
