@@ -98,8 +98,8 @@ body {
     line-height: 1.6em;
     color: #3A4145;
     background-color: #ffffff;
-/*    background-image:url(../images/pattern.jpg);
-    background-repeat:repeat;*/
+    background-image:url(../images/fabric_1.png);
+    background-repeat:repeat;
 }
 
 ::-moz-selection {
