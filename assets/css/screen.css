@@ -97,9 +97,9 @@ body {
     font-size: 1.8rem;
     line-height: 1.6em;
     color: #3A4145;
-    background-color: #f8f9fa;
-    background-image:url(../images/pattern.jpg);
-    background-repeat:repeat;
+    background-color: #ffffff;
+/*    background-image:url(../images/pattern.jpg);
+    background-repeat:repeat;*/
 }
 
 ::-moz-selection {
