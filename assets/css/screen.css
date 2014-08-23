@@ -380,7 +380,7 @@ table.plain {
     color: #fff;
     /*background: #362C38 no-repeat center center;*/
     background: url('/assets/images/skins/low_contrast_linen.png') repeat;
-    background-size: cover;
+    /*background-size: cover;*/
     border-bottom: 5px solid white;
     -webkit-box-shadow: 0 2px 4px 0 rgba(0,0,0,.15);
     box-shadow: 0 2px 4px 0 rgba(0,0,0,.15);
